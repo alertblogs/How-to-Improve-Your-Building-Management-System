@@ -1,40 +1,68 @@
-AlertOps Expert Guidance
+How to Improve Your Building Management System
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+A building management system (BMS) lets your business monitor and control mechanical and electrical equipment across one or more buildings. Heating, cooling, and ventilation (HVAC), security, and other systems linked to a BMS usually represent 70% of a building’s energy usage. So, proper configuration of your BMS is key — otherwise, a poorly configured system can negatively impact your building’s efficiency, maintenance, security, and safety.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+Building Management Systems: Here’s What You Need to Know
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+A BMS consists of software and hardware that help businesses regulate the environmental conditions in their buildings. Typically, a BMS is used to:
 
-Clarity
+    Regulate heating and cooling
+    Manage energy demand
+    Monitor access controls
+    Track fires, smoke, and other building hazards
+
+A BBS is closely tied to a building’s energy usage. Research indicates a poorly configured BMS can increase a building’s energy usage by up to 20%. Yet, with a clear understanding of how a BMS works and how to properly configure it, a business can get the best results from its system.
+
+Why Does Your Business Need a Building Management System?
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+A BMS can be beneficial if your company prioritizes reliability and efficiency. With a reliable and efficient BMS in place, you can:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+1. Reduce Your Utility Costs
+You can use a BMS to track electricity and water usage across your building. As such, your BMS can help you identify ways to keep your utility costs as low as possible.
 
-Insightful Notifications
+2. Make Accurate Budget Projections
+Since a BMS gives you data and insights regarding your utility costs, you can use it to make accurate projections about future utility expenses. This can help you establish a budget that gives you a good idea about how much your utility costs may change based on your business’ projected growth. Or, you can use BMS data and insights to determine your potential utility costs if you relocate to a new building.
+
+3. Avoid Expensive, Time-Intensive Maintenance Issues
+Thanks to a BMS, you can be proactive about building maintenance. A BMS helps you identify building maintenance issues in their early stages, so you can address these problems before they cause downtime or result in costly, time-intensive repairs.
+
+4. Promote Sustainability
+A BMS can help you uncover ways to reduce your energy consumption. It provides data and insights you can use to minimize energy consumption across your building. You can even use BMS data and insights to help you obtain or maintain LEED certification for your building.
+
+5. Bolster Security and Safety
+With a BMS, you manage a wide range of security and safety incidents like never before. For instance, you can integrate a smart camera system into your BMS to verify only authorized personnel enter your building. You can also leverage a BMS to keep an eye out for fires or other safety issues and limit their impact.
+
+Ultimately, a BMS is pivotal to your business. If you use your BMS in combination with the AlertOps incident alerting platform, you’re well-equipped to maximize your system’s value.
+
+How Can You Use AlertOps with Your Building Management System?
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+AlertOps can be used in combination with a variety of systems for building management, including:
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+1. Life Safety and Fire
+AlertOps lets you quickly and easily notify employees about fires and other building emergencies. To understand how, let’s consider an example.
 
-1 Red Canary 2021 Threat Detection Report
+You can integrate a monitoring tool into fire panels across your building. Meanwhile, you can also use AlertOps’s Open API to incorporate alerting capabilities into your monitoring tool.
 
+In this scenario, if a fire alarm goes off, AlertOps can trigger alerts. AlertOps allows you to send custom alerts to employees, incident responders, and other stakeholders. It also lets you notify emergency and security personnel, who can contact 911 and other first responders as needed.
+
+2. Camera
+AlertOps can be integrated into a smart camera system to help you identify unwanted visitors before they can enter your building.
+
+Our platform can be integrated into virtually any smart camera system. It lets you set up alert triggers, so you can notify security personnel about suspicious activities or people in and around your building. The result: AlertOps can help you mitigate the risk of unauthorized building access, theft, and other security dangers.
+
+3. HVAC
+AlertOps makes it simple to automate HVAC system maintenance. Our platform can help you save time and money on HVAC repairs and avoid significant HVAC service issues.
+
+You can integrate AlertOps into your BAS and set up triggers to automatically initiate alerting processes if HVAC issues occur. AlertOps lets you automatically alert concerned parties, create tickets, and schedule technicians any time HVAC problems are detected. It even allows you to determine which communication channels (SMS, email, etc.) to use to alert stakeholders about HVAC issues.
+
+AlertOps lets you automatically escalate critical HVAC alerts if an initial alert recipient or team does not respond, too. Our platform allows you to design custom alert escalation rules and apply them to any user or team, regardless of on-call schedules. That way, you can alert the right people about HVAC issues, any time they occur.
+
+If you currently use a BMS or plan to leverage one, we encourage you to integrate AlertOps into your system. By using our platform with your BMS, you can monitor building incidents, alert appropriate stakeholders about them, and explore ways to optimize your building’s efficiency, maintenance, and safety.
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/building-management-system/
 
 Read more:
 ====
